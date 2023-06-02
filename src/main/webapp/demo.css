@@ -21,12 +21,22 @@ header {
     width: 200px;
 }
 
+#nav{
+
+}
+#nav li{
+    display: inline-block;
+}
+#nav .dropdown-menu{
+    display: none;
+}
 
 nav ul {
     justify-content: flex-end;
     list-style: none;
     display: flex;
 }
+
 
 nav ul li {
     margin-right: 50px;
@@ -38,7 +48,6 @@ nav ul li a {
     font-weight: bold;
     text-transform: uppercase;
 }
-
 nav ul li a:hover {
     color: gold ;
 }
