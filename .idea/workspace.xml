@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/demo2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ảnh hot girl/cupid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ảnh hot girl/gift-box-with-heart-balloon-floating-it-sky-happy-valentine-s-day-banners-paper-art-style_43880-310.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ảnh hot girl/backgroundlove.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685701735909</updated>
       <workItem from="1685701737258" duration="18247000" />
-      <workItem from="1685760973569" duration="10161000" />
+      <workItem from="1685760973569" duration="10546000" />
     </task>
     <servers />
   </component>
