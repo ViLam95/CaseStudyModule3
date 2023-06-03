@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="" />
+    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list_lover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list_lover.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/homelove.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/homelove.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/homelover.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/homelover.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -50,6 +56,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/home" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.75" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
@@ -82,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685701735909</updated>
       <workItem from="1685701737258" duration="18247000" />
-      <workItem from="1685760973569" duration="10546000" />
+      <workItem from="1685760973569" duration="16453000" />
     </task>
     <servers />
   </component>

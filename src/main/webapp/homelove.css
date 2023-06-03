@@ -12,8 +12,9 @@ body{
     line-height: 1.15;
 }
 .container{
-     margin: 0 auto;
- }
+
+    margin: 0 auto;
+}
 #header{
     text-transform: uppercase;
     background-color: rgb(32, 65, 100);
@@ -26,7 +27,13 @@ nav{
     justify-items: center;
 }
 #logo{
-    padding: 0;
+    display: flex;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+    letter-spacing: 4px;
+    margin: 40px;
 }
 #logo img{
     max-width: 100px;
@@ -59,7 +66,7 @@ nav{
 #main-menu li:hover ul.sub-menu{
     display: block;
 }main-menu ul.sub-menu{
-    z-index: 9999;
+     z-index: 9999;
      background-color: rgba(32, 65, 100, 0.9);
      color: white;
  }
