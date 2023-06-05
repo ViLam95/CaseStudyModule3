@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Partner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/homelover.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/homelover.html" afterDir="false" />
-    </list>
+    <list default="true" id="e523cfcf-f523-47b9-b49d-83fb41f5d8ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +19,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Servlet" />
         <option value="Class" />
       </list>
     </option>
@@ -50,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,10 +99,26 @@
       <workItem from="1685701737258" duration="18247000" />
       <workItem from="1685760973569" duration="16795000" />
       <workItem from="1685797532629" duration="5386000" />
+      <workItem from="1685848299722" duration="21476000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/model/Partner.java</url>
+          <line>85</line>
+          <properties class="model.Partner" method="getPartner_phone">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
